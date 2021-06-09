@@ -6,3 +6,6 @@ dist/
 *.pyc
 *note
 *backup*
+Scripts
+Lib
+.etc/
